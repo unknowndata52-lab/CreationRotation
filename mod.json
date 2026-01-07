@@ -1,5 +1,5 @@
 {
-	"geode": "4.1.2",
+	"geode": "4.10.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
@@ -8,7 +8,7 @@
 	},
 	"id": "techstudent10.creation_rotation",
 	"name": "Creation Rotation",
-	"version": "v1.0.0-beta.11",
+	"version": "v1.0.1-beta.11",
 	"developer": "TechStudent10",
 	"description": "Wulzy's Creation Rotation as a mod",
 	"resources": {
